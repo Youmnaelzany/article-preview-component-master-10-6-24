@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Youmnaelzany/article-preview-component-master-10-6-24.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://articlecomponent10624.netlify.app/)
 
 ## My process
 
